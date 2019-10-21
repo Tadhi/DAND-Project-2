@@ -16,7 +16,7 @@ In this project, I will analyze a dataset and then communicate with my findings.
 * Exploratory data analysis
 * Conclusion
 
-## Questions
+# Questions
 
 >These are the questions that I analyzed from the dataset:
 
