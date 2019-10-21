@@ -28,5 +28,10 @@ In this project, I will analyze a dataset and then communicate with my findings.
    - What is the average runtime of movies from year to year?
    - Which genres have the highest release of movies?
     
+# Technologies Used
+>
+- Python, Pandas, Numpy, Matplotlib
+- Excel
+- Jupyter Notebooks
 
 
