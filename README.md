@@ -29,7 +29,7 @@ In this project, I will analyze a dataset and then communicate with my findings.
    - Which genres have the highest release of movies?
     
 # Technologies Used
->
+
 - Python, Pandas, Numpy, Matplotlib
 - Excel
 - Jupyter Notebooks
