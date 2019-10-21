@@ -31,7 +31,7 @@ In this project, I will analyze a dataset and then communicate with my findings.
 # Technologies Used
 
 - Python, Pandas, Numpy, Matplotlib
-- Excel
+- Microsoft Excel
 - Jupyter Notebooks
 
 
